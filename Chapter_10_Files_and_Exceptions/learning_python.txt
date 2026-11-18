@@ -1,0 +1,6 @@
+In Python you can print any words
+in Python you can create variable and giving them any names
+in Python you can create conditional tests and lists
+in Python you can create dictionaries which have the defenition and the value
+in Python you can create your own functions and classes
+and Python has many more in-built feature to uncover
